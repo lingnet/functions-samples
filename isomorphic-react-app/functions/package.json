@@ -2,7 +2,7 @@
   "name": "functions-isomorphic-react-app",
   "description": "A sample isomorphic React app using Functions and Hosting",
   "dependencies": {
-    "express": "4.15.2",
+    "express": "4.17.0",
     "firebase": "4.8.0",
     "react": "15.5.4",
     "react-dom": "15.5.4",
